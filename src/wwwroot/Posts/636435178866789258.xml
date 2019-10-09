@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<post>
+  <title>Test Title</title>
+  <slug>welcome</slug>
+  <pubDate>2019-10-05 18:59:01</pubDate>
+  <lastModified>2019-10-06 17:59:29</lastModified>
+  <excerpt>Congratulations on your new blog</excerpt>
+  <content>&lt;p&gt;esto es un otro test&lt;/p&gt;</content>
+  <ispublished>true</ispublished>
+  <categories>
+    <category>TestBlog1</category>
+    <category>TestBlog2</category>
+  </categories>
+  <comments>
+    <comment isAdmin="false" id="cd58dea4-a4d5-498a-b164-6a5b7c3f2f62">
+      <author>John Doe</author>
+      <email>john@gmail.com</email>
+      <date>2019-10-05 20:15:23</date>
+      <content>This is a comment made by a visitor</content>
+    </comment>
+    <comment isAdmin="true" id="13d7cd7d-6336-4c42-8c91-27f27d6bf648">
+      <author>Test</author>
+      <email>test@test.com</email>
+      <date>2019-10-06 20:15:48</date>
+      <content>This is a comment made by the owner of the blog while logged in.
+
+It looks slightly different to make it clear that this is a response from the owner.</content>
+    </comment>
+  </comments>
+</post>

@@ -1,0 +1,13 @@
+{
+  "name": {
+    "text": "Blog"
+  },
+  "description": {
+    "text": "Test"
+  },
+  "order": 1000,
+  "icon": "icon.png",
+  "learnMoreLink": "url",
+  "uiFilters": [ "oneaspnet" ],
+  "supportsDocker": true
+}

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<post>
+  <title>test1 modo prueba</title>
+  <slug>Test1</slug>
+  <pubDate>2019-10-06T20:27:23.432Z</pubDate>
+  <lastModified>2019-10-06T20:27:23.435Z</lastModified>
+  <excerpt>nada</excerpt>
+  <content>&lt;p&gt;nada de &lt;strong&gt;nada&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;</content>
+  <ispublished>true</ispublished>
+  <categories>
+    <category>testblog1</category>
+  </categories>
+  <comments></comments>
+</post>

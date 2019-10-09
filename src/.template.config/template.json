@@ -1,0 +1,35 @@
+{
+  "author": "Test",
+  "classifications": [ "Web", "MVC" ],
+  "name": "Myblog.Core",
+  "defaultName": "WebApplication1",
+  "identity": "Myblog.core",
+  "groupIdentity": "Test.Myblog.core",
+  "shortName": "miniblog",
+  "sources": [
+    {
+      "exclude": [ "Properties/**/*", "**/[Bb]in/**", "**/[Oo]bj/**", ".template.config/**/*", "**/*.filelist", "**/*.user", "**/*.lock.json" ]
+    }
+  ],
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "Myblog.Core",
+  "preferNameDirectory": true,
+  "primaryOutputs": [ { "path": "Myblog.Core.csproj" } ],
+  "symbols": {
+    "Framework": {
+      "type": "parameter",
+      "description": "The target framework for the project.",
+      "datatype": "choice",
+      "choices": [
+        {
+          "choice": "netcoreapp2.0",
+          "description": "Target netcoreapp2.0"
+        }
+      ],
+      "defaultValue": "netcoreapp2.0"
+    }
+  }
+}

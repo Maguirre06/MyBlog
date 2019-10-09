@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<post>
+  <title>sin titulo</title>
+  <slug>Test1</slug>
+  <pubDate>2019-10-06T20:26:25.460Z</pubDate>
+  <lastModified>2019-10-06T20:26:25.486Z</lastModified>
+  <excerpt>ensayo</excerpt>
+  <content>&lt;p&gt;nada de nada&lt;/p&gt;</content>
+  <ispublished>true</ispublished>
+  <categories>
+    <category>testblog2</category>
+  </categories>
+  <comments></comments>
+</post>

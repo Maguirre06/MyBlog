@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<post>
+  <title>no publicado</title>
+  <slug>nopublicado</slug>
+  <pubDate>2019-10-06T19:49:31.497Z</pubDate>
+  <lastModified>2019-10-06T19:49:31.524Z</lastModified>
+  <excerpt>Blablabla</excerpt>
+  <content>&lt;p&gt;Tiny&lt;/p&gt;</content>
+  <ispublished>false</ispublished>
+  <categories>
+    <category>TestBlog2</category>
+  </categories>
+  <comments></comments>
+</post>
